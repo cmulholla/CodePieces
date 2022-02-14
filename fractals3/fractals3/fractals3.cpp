@@ -11,43 +11,6 @@
 
 using namespace std;
 
-
-/*class imLine {
-public:
-    int Length;
-    int Rotation;
-    sf::Color color;
-    imLine(int Length, int Rotation, sf::Color Color = sf::Color::White) {
-        imLine::Length = Length;
-        imLine::color = Color;
-        imLine::Rotation = Rotation;
-    }
-    sf::Vector2f getEndPos() {
-        return sf::Vector2f(cos(Rotation * PI / 180) * Length, sin(Rotation * PI / 180) * Length);
-    }
-};
-
-sf::Vector2f getEndPos(float Rotation, float Length) {
-    return sf::Vector2f(cos(Rotation * PI / 180) * Length, sin(Rotation * PI / 180) * Length);
-}
-
-sf::Image drawLine(sf::Image& image, imLine line, int x, int y) {
-    sf::Vector2f angle;
-    angle = getEndPos(line.Rotation, 1);
-    for (int i = 0; i < 1 * line.Length; i++) {
-        image.setPixel(int(x + angle.x * i) % image.getSize().x, int(y + angle.y * i) % image.getSize().y, line.color);
-    }
-    return image;
-}
-sf::Image drawLine(sf::Image& image, imLine line, sf::Vector2f pos) {
-    sf::Vector2f angle;
-    angle = getEndPos(line.Rotation, 1);
-    for (int i = 0; i < 1 * line.Length; i++) {
-        image.setPixel(int(pos.x + angle.x * i) % image.getSize().x, int(pos.y + angle.y * i) % image.getSize().y, line.color);
-    }
-    return image;
-}*/
-
 sf::Image averagePixel(sf::Image image, float factor) {
     sf::Image outImage;
     int xSize = image.getSize().x;
