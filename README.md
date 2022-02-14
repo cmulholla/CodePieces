@@ -13,4 +13,4 @@ fractals3:
 Python Machine Learning
  - As of now, this just includes a small side-project I did. I learned what I did through my intro to machine learning class.
  - This uses a k-means algorithm with sklearn fitted to data I found on https://simplemaps.com/data/world-cities
- - 
+ - The few images used from this algorithm are also found in this. I used the amount of countries in real life (~200) for this, as well as around 50 because it looks better.
