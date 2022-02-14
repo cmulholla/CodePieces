@@ -1,0 +1,30 @@
+﻿  fractals3.cpp
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(67,152): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(67,119): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(67,85): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(67,43): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(67,27): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(73,20): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(74,20): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(103,137): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(103,105): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(103,73): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(117,52): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(117,43): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(119,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(136,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(155,85): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(155,52): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(158,87): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(158,49): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(177,92): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\cmulholla\source\repos\fractals3\fractals3\fractals3.cpp(177,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  fractals3.vcxproj -> C:\Users\cmulholla\source\repos\fractals3\Debug\fractals3.exe
