@@ -1,0 +1,10 @@
+C:\Users\cmulholla\source\repos\basicform\basicform\bin\Debug\basicform.exe.config
+C:\Users\cmulholla\source\repos\basicform\basicform\bin\Debug\basicform.exe
+C:\Users\cmulholla\source\repos\basicform\basicform\bin\Debug\basicform.pdb
+C:\Users\cmulholla\source\repos\basicform\basicform\obj\Debug\basicform.csprojAssemblyReference.cache
+C:\Users\cmulholla\source\repos\basicform\basicform\obj\Debug\basicform.Form1.resources
+C:\Users\cmulholla\source\repos\basicform\basicform\obj\Debug\basicform.Properties.Resources.resources
+C:\Users\cmulholla\source\repos\basicform\basicform\obj\Debug\basicform.csproj.GenerateResource.cache
+C:\Users\cmulholla\source\repos\basicform\basicform\obj\Debug\basicform.csproj.CoreCompileInputs.cache
+C:\Users\cmulholla\source\repos\basicform\basicform\obj\Debug\basicform.exe
+C:\Users\cmulholla\source\repos\basicform\basicform\obj\Debug\basicform.pdb
